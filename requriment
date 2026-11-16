@@ -1,0 +1,4 @@
+streamlit
+pandas
+joblib
+scikit-learn==REPLACE_WITH_VERSION_FROM_COLAB
